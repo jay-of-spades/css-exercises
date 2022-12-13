@@ -1,4 +1,22 @@
+* {
+  font-size: 16px;
+}
+
 .odd {
   background-color: #f8c4b4;
-  font-family: Verdana, DejaVu Sans, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, 'DejaVu Sans', 'Geneva', Tahoma, sans-serif;
+}
+
+#second {
+  color: rgb(0, 20, 255);
+  font-size: 36px;
+}
+
+.third {
+  font-size: 24px;
+}
+
+#fourth {
+  background-color: #b3ffae;
+  font-weight: bold;
 }
